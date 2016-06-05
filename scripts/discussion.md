@@ -4,7 +4,7 @@
 User has finished the VR demonstration and will be asked by our volunteer
 to participate in a follow-up conversation.
 
-## Questions
+## Comprehension Questions
 - What causes zika disease?
   - If the user is having difficulty, nudge them in the right direction
 	  - Where can you contract zika?
@@ -15,6 +15,11 @@ to participate in a follow-up conversation.
 		- What are some actions you can take at home?
 		- Are there areas you should prevent?
 
+## Feedback Questions
+
+`TBA`
+
 ## Sample Script
 
-
+Now that you have walked through the Zika Disease VR experience, I'm going to ask
+you a few follow-up questions. In no way do these questions test your ability
